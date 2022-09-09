@@ -32,9 +32,9 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     object-position: center;
-    transition: 55s;
+    transition: 5s;
     animation-name: changeimage;
-    animation-duration: 10s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-direction: alternate-reverse;
