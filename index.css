@@ -6,7 +6,7 @@
 }
 body{
     background-color: blue;
-    animation: colorchange 1s linear infinite;
+    animation: colorchange 55s linear infinite;
 }
 @keyframes colorchange {
     from{
